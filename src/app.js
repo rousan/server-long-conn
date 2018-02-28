@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const http = require('http');
 
-const contentText = fs.readFileSync(path.join(__dirname, 'index.html'), { encoding: 'utf8' });
+const contentText = fs.readFileSync(path.join(__dirname, 'me.html'), { encoding: 'utf8' });
 const interval = 0;
 
 http.createServer((req, res) => {
