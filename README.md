@@ -2,6 +2,10 @@
 
 The strange server implementation, you can't access the full response at once, `TRY IT IF YOU CAN 😁`.
 
+## Demo
+
+Look at this [demo](https://server-long-conn.herokuapp.com/).
+
 ## Usage
 
 Clone it and start the server:
