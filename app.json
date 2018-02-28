@@ -1,0 +1,13 @@
+{
+  "name": "server-long-conn",
+  "description": "The strange server implementation whose full response can't be accessed at once",
+  "repository": "https://github.com/rousan/server-long-conn",
+  "keywords": [
+    "server",
+    "strange",
+    "nodejs",
+    "long",
+    "connection"
+  ],
+  "image": "heroku/nodejs"
+}
