@@ -4,6 +4,7 @@
   "description": "The strange server implementation whose full response can't be accessed at once",
   "main": "src/app.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
